@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300518473483",
+    "project_id": "blindreader-aee46",
+    "storage_bucket": "blindreader-aee46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300518473483:android:ec79019216069f6efb6c0e",
+        "android_client_info": {
+          "package_name": "com.example.blindreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDM7BygzOJJ_x_Ffeyo7efcdcC7fe6Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
